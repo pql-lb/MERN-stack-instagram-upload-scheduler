@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ReactPhoto/static/css/main.d372b2ff.chunk.css",
-    "main.js": "/ReactPhoto/static/js/main.833f9af8.chunk.js",
-    "main.js.map": "/ReactPhoto/static/js/main.833f9af8.chunk.js.map",
+    "main.js": "/ReactPhoto/static/js/main.b2dee756.chunk.js",
+    "main.js.map": "/ReactPhoto/static/js/main.b2dee756.chunk.js.map",
     "runtime-main.js": "/ReactPhoto/static/js/runtime-main.6aaf9f51.js",
     "runtime-main.js.map": "/ReactPhoto/static/js/runtime-main.6aaf9f51.js.map",
     "static/js/2.34a7b016.chunk.js": "/ReactPhoto/static/js/2.34a7b016.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6aaf9f51.js",
     "static/js/2.34a7b016.chunk.js",
     "static/css/main.d372b2ff.chunk.css",
-    "static/js/main.833f9af8.chunk.js"
+    "static/js/main.b2dee756.chunk.js"
   ]
 }
