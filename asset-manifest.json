@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ReactPhoto/static/css/main.369fed68.chunk.css",
-    "main.js": "/ReactPhoto/static/js/main.538a1177.chunk.js",
-    "main.js.map": "/ReactPhoto/static/js/main.538a1177.chunk.js.map",
+    "main.css": "/ReactPhoto/static/css/main.bb41733f.chunk.css",
+    "main.js": "/ReactPhoto/static/js/main.9a30a4df.chunk.js",
+    "main.js.map": "/ReactPhoto/static/js/main.9a30a4df.chunk.js.map",
     "runtime-main.js": "/ReactPhoto/static/js/runtime-main.6aaf9f51.js",
     "runtime-main.js.map": "/ReactPhoto/static/js/runtime-main.6aaf9f51.js.map",
     "static/js/2.0a05c690.chunk.js": "/ReactPhoto/static/js/2.0a05c690.chunk.js",
     "static/js/2.0a05c690.chunk.js.map": "/ReactPhoto/static/js/2.0a05c690.chunk.js.map",
     "index.html": "/ReactPhoto/index.html",
-    "static/css/main.369fed68.chunk.css.map": "/ReactPhoto/static/css/main.369fed68.chunk.css.map",
+    "static/css/main.bb41733f.chunk.css.map": "/ReactPhoto/static/css/main.bb41733f.chunk.css.map",
     "static/js/2.0a05c690.chunk.js.LICENSE.txt": "/ReactPhoto/static/js/2.0a05c690.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6aaf9f51.js",
     "static/js/2.0a05c690.chunk.js",
-    "static/css/main.369fed68.chunk.css",
-    "static/js/main.538a1177.chunk.js"
+    "static/css/main.bb41733f.chunk.css",
+    "static/js/main.9a30a4df.chunk.js"
   ]
 }
