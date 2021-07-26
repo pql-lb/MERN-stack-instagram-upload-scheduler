@@ -1,0 +1,1 @@
+This is a small app where users can view their recent instagram insights, schedule image uploads and view any scheduled images. To use this app you will need a business instagram account with a linked business facebook account.
